@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TMj5MfaoIYlxWhTqVDz4MCpHaIOMIerjfYK51JkL23k=",
+  "Hash": "9lj8qSmHqzCJxcGWx70Av3Sm7cKGjTsBdK6vfQQqcpo=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "E:\\dotNet\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css"
     },
     {
+      "Identity": "E:\\dotNet\\BookStore\\BookStore\\wwwroot\\css\\bootwarchtheme.css",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\dotNet\\BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "css/bootwarchtheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootwarchtheme.css"
+    },
+    {
       "Identity": "E:\\dotNet\\BookStore\\BookStore\\wwwroot\\css\\site.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\dotNet\\BookStore\\BookStore\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\dotNet\\BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "E:\\dotNet\\BookStore\\BookStore\\wwwroot\\favicon.ico",
